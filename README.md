@@ -2,7 +2,7 @@
 
 This is a simple responsive Portfolio WebPage mobile version
 
-## Preview:
+## Preview: https://dushyant029.github.io/Portfolio-HTML-CSS--Mobile-version/
 
 ![image](https://user-images.githubusercontent.com/55031190/103375617-a4173680-4b00-11eb-8aba-9f0fd91887f3.png)
 
